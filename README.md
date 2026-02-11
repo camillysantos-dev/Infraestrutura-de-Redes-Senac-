@@ -29,8 +29,8 @@ Toda a documentação do projeto está disponível neste repositório, incluindo
 - Configurações de dispositivos e servidores.  
 - Relatórios de testes de conectividade e segurança.  
 - Manual de implantação e manutenção.
-
-A documentação completa do projeto está disponível em [projetoRedes.pdf](sha256:111d607800dfb7a5813a22520a2ffe05a1f3652ce4c44d54bc71af18a328cf66).
+  
+Acesse a documentação completa na [Release do Projeto](https://github.com/seuusuario/seurepositorio/releases).
 
 ---
 
