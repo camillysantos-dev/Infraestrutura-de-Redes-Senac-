@@ -30,7 +30,7 @@ Toda a documentação do projeto está disponível neste repositório, incluindo
 - Relatórios de testes de conectividade e segurança.  
 - Manual de implantação e manutenção.
 
-A documentação completa do projeto está disponível em [projetoRedes.pdf](Projeto%20REDES/Projeto%20Integrador%20-%20REDES%201.pdf).
+A documentação completa do projeto está disponível em [projetoRedes.pdf](sha256:111d607800dfb7a5813a22520a2ffe05a1f3652ce4c44d54bc71af18a328cf66).
 
 ---
 
