@@ -30,7 +30,7 @@ Toda a documentação do projeto está disponível neste repositório, incluindo
 - Relatórios de testes de conectividade e segurança.  
 - Manual de implantação e manutenção.
   
-Acesse a documentação completa na [Release do Projeto](https://github.com/seuusuario/seurepositorio/releases).
+Acesse a documentação completa na [Release do Projeto](https://github.com/camillysantos-dev/Infraestrutura-de-Redes-Senac-/releases/tag/v1.0-infra).
 
 ---
 
